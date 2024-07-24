@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lato {
+  font-family: 'lato';
+}
+.form-width {
+  width: 1000px;
+}
+
+
+.button {
+  padding: 10px;
+  background-color: blue;
+  width: 50%; 
+  border-radius: 25px;
+}
+
+.check-here {
+  font-size: 20px;
+}
+
+
